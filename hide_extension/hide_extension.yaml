@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Compatibility: 3.x, 4.x, 5.x
+Main: main.js
+Name: Hide extension
+Icon: icon.png
+Description: "toggle display of selected code cell's output"
+Link: readme.md
